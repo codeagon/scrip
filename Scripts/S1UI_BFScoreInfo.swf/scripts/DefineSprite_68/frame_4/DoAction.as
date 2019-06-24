@@ -1,0 +1,1 @@
+textMc._visible = true;

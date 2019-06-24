@@ -1,0 +1,1 @@
+tempMc._visible = false;

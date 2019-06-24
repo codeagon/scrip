@@ -1,0 +1,3 @@
+interface gfx.interfaces.IListItemRenderer
+{
+}

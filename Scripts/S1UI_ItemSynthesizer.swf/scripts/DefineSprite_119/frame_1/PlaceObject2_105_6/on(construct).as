@@ -1,0 +1,3 @@
+on(construct){
+   useMaxMinButton = true;
+}

@@ -1,0 +1,1 @@
+this.hitTestDisable = true;

@@ -1,0 +1,2 @@
+_parent.openFinished();
+stop();
